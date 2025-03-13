@@ -9,8 +9,12 @@
   <li>Servo Motor</li>
 </ol>
 
+<h2>How it worked:</h2>
+    A menu was made using an LCD to display 3 things. The time that it would dispense food, the amount of food to dispense in increments of 1/4 cups, and the current time. To set these values a user can utilize the 4 push button controller to move up or down the menu and right to select what they want to edit. After a pause showing the current value for what they selected they are prompted to set the new value. For time pressing the right button would alternate between hours and minutes, pressing up or down increments or decrements the value, and pressing back exits and sets the new value.
 
-
+<br>
+<br>
+ The food would be dispensed by a using the servo to move a containor that can hold 1/4cup under a food storage area then move back which has a hole where the food can come out of below into a bowl.
 
 
 
